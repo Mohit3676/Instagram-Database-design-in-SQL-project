@@ -1,0 +1,22 @@
+INSERT INTO User (UserID, Username, Email, Full_Name, Bio, Registration_Date)
+VALUES
+  (1, 'alice_23', 'alice@email.com', 'Alice Johnson', 'Travel enthusiast', '2022-01-01'),
+  (2, 'bob_85', 'bob@email.com', 'Bob Smith', 'Photographer and storyteller', '2022-02-15'),
+  (3, 'charlie_09', 'charlie@email.com', 'Charlie Brown', 'Fitness freak', '2022-03-20'),
+  (4, 'diana_42', 'diana@email.com', 'Diana Miller', 'Food lover', '2022-04-05'),
+  (5, 'edward_78', 'edward@email.com', 'Edward White', 'Tech geek', '2022-05-10'),
+  (6, 'fiona_56', 'fiona@email.com', 'Fiona Green', 'Nature lover', '2022-06-25'),
+  (7, 'george_34', 'george@email.com', 'George Thompson', 'Bookworm and coffee addict', '2022-07-12'),
+  (8, 'helen_19', 'helen@email.com', 'Helen Davis', 'Art enthusiast', '2022-08-03'),
+  (9, 'ian_92', 'ian@email.com', 'Ian Wilson', 'Science geek', '2022-09-18'),
+  (10, 'jane_71', 'jane@email.com', 'Jane Miller', 'Movie buff', '2022-10-05'),
+  (11, 'kyle_45', 'kyle@email.com', 'Kyle Johnson', 'Adventure seeker', '2022-11-20'),
+  (12, 'lisa_88', 'lisa@email.com', 'Lisa Brown', 'Fashionista', '2022-12-15'),
+  (13, 'mike_67', 'mike@email.com', 'Mike Davis', 'Musician and gamer', '2023-01-08'),
+  (14, 'nina_29', 'nina@email.com', 'Nina White', 'Yoga lover', '2023-02-13'),
+  (15, 'oliver_14', 'oliver@email.com', 'Oliver Green', 'Coding enthusiast', '2023-03-01'),
+  (16, 'pamela_82', 'pamela@email.com', 'Pamela Thompson', 'Culinary artist', '2023-04-12'),
+  (17, 'quincy_63', 'quincy@email.com', 'Quincy Wilson', 'Sports fan', '2023-05-20'),
+  (18, 'rachel_76', 'rachel@email.com', 'Rachel Smith', 'Animal rights activist', '2023-06-03'),
+  (19, 'steve_50', 'steve@email.com', 'Steve Brown', 'Entrepreneur', '2023-07-15'),
+  (20, 'tina_21', 'tina@email.com', 'Tina Davis', 'Technology evangelist', '2023-08-01');

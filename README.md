@@ -6,3 +6,5 @@
 2. In this instance, I am handling the information of several people, including their followers, interests, and public social media platform activity, which includes bookmarks, hashtags followed, comments, and likes on posts, among many other things.
 3. I am provided a concise explanation of the relationships and connections between various social media activity with our SQL query.
 4. I made a sincere effort to provide a clearer and more accurate picture of a fundamental social networking site through our research and hard work.
+
+![image](https://github.com/Mohit3676/Instagram-Database-design-in-SQL-project/assets/113348665/c4110309-48e7-4ee8-9a89-cd86c58968b1)
